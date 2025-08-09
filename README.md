@@ -20,14 +20,13 @@ To inspect or run the contracts, you can use the Remix IDE online development en
 
     git clone https://github.com/saskuati-dev/Solidity.git
 
+Open Remix and navigate to the "File Explorers" tab.
 
-    Open Remix and navigate to the "File Explorers" tab.
+Click the "Upload" icon to load the .sol files from the repository.
 
-    Click the "Upload" icon to load the .sol files from the repository.
+Select the ^0.8.0 compiler version and, in the "Deploy" tab, use a test environment provider (such as Injected Provider - MetaMask for the Sepolia network).
 
-    Select the ^0.8.0 compiler version and, in the "Deploy" tab, use a test environment provider (such as Injected Provider - MetaMask for the Sepolia network).
-
-    Copy and paste the Chainlink oracle address into the constructor to deploy the contract.
+Copy and paste the Chainlink oracle address into the constructor to deploy the contract.
 
 Obtendo ETH de Teste:
 
@@ -41,9 +40,9 @@ Para testar os contratos na rede Sepolia, você precisará de ETH de teste. Voc�
 
 @shineyeti
 
-    Twitter/X: @shineyeti
+Twitter/X: @shineyeti
 
-    GitHub: saskuati-dev
+GitHub: saskuati-dev
 
 📄 License
 
