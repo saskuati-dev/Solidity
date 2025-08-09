@@ -28,10 +28,9 @@ Select the ^0.8.0 compiler version and, in the "Deploy" tab, use a test environm
 
 Copy and paste the Chainlink oracle address into the constructor to deploy the contract.
 
-Obtendo ETH de Teste:
+Getting Test ETH:
 
-Para testar os contratos na rede Sepolia, você precisará de ETH de teste. Você pode obter ETH de forma gratuita em um dos seguintes faucets:
-
+To test the contracts on the Sepolia network, you will need test ETH. You can get free ETH from one of the following faucets:
     https://sepolia-faucet.pk910.de/
 
     https://cloud.google.com/application/web3/faucet/ethereum/sepolia
